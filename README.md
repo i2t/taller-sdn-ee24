@@ -8,8 +8,8 @@ Fecha:
 - Viernes, 22 de Julio, 16:00-17:45
 
 Ponentes:
-- [Alaitz Mendiola](alaitz.mendiola@ehu.eus)
-- [Christian Pinedo](christian.pinedo@ehu.eus)
+- Alaitz Mendiola, alaitz.mendiola(at)ehu.eus
+- Christian Pinedo, christian.pinedo(at)ehu.eus
 
 Descripción del taller:
 - Introducción a las redes definidas por software y al protocolo OpenFlow para
@@ -24,8 +24,9 @@ Descripción del taller:
   (50 minutos)
 
 Mas información:
-- http://euskal.org/talleres.html#networking
-- http://i2t.ehu.eus
+- [Información del taller en la web de la Euskal Encounter 24](http://euskal.org/talleres.html#networking)
+- [Repositorio Git con el código del taller](http://github.com/i2t/taller-sdn-ee24)
+- [Web del grupo de investigación I2T](http://i2t.ehu.eus)
 
 
 ### Desarrollo del taller
