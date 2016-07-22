@@ -52,8 +52,8 @@ def sendOpenFlowMessage(event, mac_0, mac_1):
     msg = of.ofp_flow_mod()
     msg.match.dl_src = EthAddr(mac_0)
     msg.match.dl_dst = EthAddr(mac_1)
-    msg.hard_timeout = 60
-    msg.idle_timeout = 30
+    msg.hard_timeout = 600
+    msg.idle_timeout = 300
     msg.priority = 1
     #msg.actions.append(of.ofp_action_output(port=of.OFPP_FLOOD))
     event.connection.send(msg)
